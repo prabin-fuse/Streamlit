@@ -20,4 +20,4 @@ The application should have a user-friendly interface, and error handling for da
 Ensure that the data entered on each page is stored in separate DataFrames (employee_data and department_data) and that the visualization page can correctly join and display the data from both DataFrames.
 
 
-Please provide a Python script containing the Streamlit application code and any necessary explanations for your design choices. Also, use a virtual environment while developing the project.
+Please provide a Python script developingcontaining the Streamlit application code and any necessary explanations for your design choices. Also, use a virtual environment while  the project.
